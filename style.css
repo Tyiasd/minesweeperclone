@@ -1,0 +1,26 @@
+Field{
+    -fx-background-color: #CCCCCC;
+    /*-fx-border: none;*/
+    -fx-color: white;
+    -fx-padding: 2px 9px 2px 9px;
+/*    -fx-border: 2px #4CAF50;
+    -fx-width: 3.125%;
+    -fx-height: 0.454545455%; 
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;*/
+}
+
+root{
+    -fx-color: #000000;
+}
+time{
+    -fx-color: #000000;
+}
+HBox{
+    -fx-spacing: 792px;
+}
+Label{
+    -fx-font-size: 23px;
+}
